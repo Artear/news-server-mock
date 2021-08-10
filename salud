@@ -1,0 +1,338 @@
+{
+    "header": [],
+    "main": [
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "main",
+            "items": [
+              {
+                "id": "TSNV66QYEVCBNOQZ2DST5FQC3Y",
+                "headline": "Cuáles son los síntomas más comunes posvacunación contra el coronavirus, cuánto deberían durar y qué significan",
+                "subheadline": "Lo científicos reiteran que son más los beneficios que los riesgos de inmunizarse contra el coronavirus. No obstante, muchas personas temen inocularse por los posibles efectos adversos de las drogas. Especialistas aclaran qué es cierto y que no. ",
+                "path": "/salud/noticias/2021/07/06/mitos-y-verdades-sobre-los-sintomas-post-vacunas-contra-el-coronavirus/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/OJSZDpBFZLE33Z42JPYGXc5cowc=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/MU6QEP2DZNHEJO4AMDSOH76UKI.jpg",
+                  "title": "Muchos jóvenes manifiestan dolores de cabeza o gripes después de vacunarse. EFE/Marcial Guillén"
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "MPXMG3KWZJBXBDXFFIMPBGZX2A",
+                "headline": "Del estigma a la esperanza: las historias de los primeros argentinos voluntarios de la vacuna del VIH",
+                "subheadline": "Más de 40 años después de los primeros casos de la epidemia, un nuevo estudio está en fase 3 para desarrollar un antídoto preventivo.",
+                "path": "/salud/bienestar/2021/07/06/del-estigma-a-la-esperanza-las-historias-de-los-primeros-argentinos-voluntarios-de-la-vacuna-del-vih/",
+                "media": {
+                  "type": "video",
+                  "url": "https://vod.vodgc.net/manifest/181C1D7F1A8D5891C2D714D067AAE473378.m3u8",
+                  "image": "https://tn.com.ar/resizer/c1lCAGRQisO2SXf39lf4RhZK4U0=/1023x0/smart/filters:quality(60)/thumbs.vodgc.net/181C1D7F1A8D5891C2D714D067AAE473378-1625583604.jpg",
+                  "genoaId": "1117051"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "general",
+            "withImage": true,
+            "items": [
+              {
+                "id": "3L73ZEZ5BBBX5EKQBKGRDWNRAY",
+                "headline": "¿Hay que tomar paracetamol antes de vacunarse contra el coronavirus?: especialistas develan si se trata de un mito o de una medida preventiva",
+                "subheadline": "Muchas personas recurren a este analgésico y antifebril con la creencia de que atenuarán los posibles efectos adversos de los sueros contra el COVID-19. ",
+                "path": "/salud/noticias/2021/07/06/es-necesario-tomar-paracetamol-antes-de-vacunarse-contra-el-coronavirus/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/E11hXM8G-_h87GGJY_h4p1v4GsU=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/TKQ46Z37Q5CPJPQ37FPEXYX534.jpg",
+                  "title": "Un hombre es vacunado en la ciudad de Buenos Aires (Foto EFE/Juan Ignacio Roncoroni)."
+                }
+              },
+              {
+                "id": "Q6WUFKSUJ5B6LFPGTIWQ2XE3EY",
+                "headline": "En Israel, podrían aplicar una tercera dosis de la vacuna contra el coronavirus a fines de año",
+                "subheadline": "Un nuevo documento de la Universidad Hebrea de Jerusalén señala que el riesgo de que las personas vacunadas desarrollen una cuadro de gravedad por COVID-19 es más alto de lo que se estimó en un principio.",
+                "path": "/salud/noticias/2021/07/06/en-israel-podrian-aplicar-una-tercera-dosis-de-la-vacuna-contra-el-coronavirus-a-fines-de-ano/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/ieuzDVtI5270onuUcL8t6EMmNpU=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/U4L5LMJHA5A7FGGKCVQWPTW2CI.jpg",
+                  "title": "Las personas vacunadas gozarán de menos restricciones. EFE/EPA/ABIR SULTAN"
+                }
+              },
+              {
+                "id": "QTOYGNITR5B25FYHJFD5J74PFM",
+                "headline": "Qué es el síndrome de Rumiación",
+                "subheadline": "Se trata de un proceso netamente psicológico, directamente relacionado con situaciones no resueltas de otros momentos de la vida. El afectado no logra dejar de pensar sobre un trauma pasado.",
+                "path": "/salud/bienestar/2021/07/06/que-es-el-sindrome-de-rumiacion/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/_bJGcHikMX2tTWJy0MysdES23e0=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/MGFARCSMPBGT7FZ5E6FBTCE6QE.jpeg",
+                  "title": "La rumiación dificulta la capacidad de afrontar los problemas y tomar decisiones. (Foto: Adobe Stock)"
+                }
+              },
+              {
+                "id": "FF3UAPIPQ5DD3JCAO4GSSRXJH4",
+                "headline": "Investigan otras drogas que podrían servir como tratamiento contra el coronavirus",
+                "subheadline": "Científicos tratan de determinar si algunos medicamentos ya existentes también pueden ayudar contra el SARS-CoV-2.",
+                "path": "/salud/noticias/2021/07/06/investigan-otras-drogas-que-podrian-servir-como-tratamiento-contra-el-coronavirus/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/B_-oq5lCsybZmBgqaFG3gfX8LcE=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/FMC52B5M25CHRKQFB7T7X6EDN4.jpeg",
+                  "title": "La gravedad de la enfermedad depende de las variantes y de la respuesta inmunológica de cada persona. (Foto: Adobe Stock)"
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "PQ24KTXYVNG6DF5C6GMTZ6KMXQ",
+                "headline": "Pasados tres meses de la primera dosis de la Sputnik V, ¿es necesario reiniciar el esquema de vacunación?",
+                "subheadline": "TN.com.ar consultó a especialistas sobre los efectos de la demora en la colocación del segundo componente del suero ruso. El rol de la defensa celular en el proceso. ",
+                "path": "/salud/2021/07/06/pasados-tres-meses-de-la-primera-dosis-de-la-sputnik-v-es-necesario-reiniciar-el-esquema-de-vacunacion/",
+                "author": {
+                  "name": "Marcelo  Izquierdo",
+                  "avatar": "https://s3.amazonaws.com/arc-authors/artear/09c377e9-0ccf-4bd2-baa2-b923fec18150.png"
+                },
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/1j99qzU3Js-cWE8TLPp5PZmQYIw=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/5YOJAJAJDRFFFJYSC5M2A3COPI.jpg",
+                  "title": "Una mujer recibe una dosis de Sputnik V en la provincia de Buenos Aires. (Foto: EFE)."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "general",
+            "items": []
+          },
+          {
+            "title": "",
+            "style": "general",
+            "withImage": true,
+            "items": [
+              {
+                "id": "OPAEOI36LZFBHAVG3VHUGINNUY",
+                "headline": "Coronavirus: una nueva ola traería un “tsunami” para la salud mental",
+                "subheadline": "Especialistas de Europa anticipan los problemas socioemocionales que podrían darse con la evolución del covid en todo el mundo.",
+                "path": "/salud/noticias/2021/07/05/coronavirus-una-nueva-ola-traeria-un-tsunami-para-la-salud-mental/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/cNovS9yuIuj1PytfTBe3HzGNniM=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/CXHNRFCAJ5A5PK2VTE6FQRHYKI.jpg",
+                  "title": "Hay más casos de trastornos depresivos y de ansiedad por la pandemia. (EFE)"
+                }
+              },
+              {
+                "id": "FH6N4IG2DNCGTJ6BFAJSLBP45M",
+                "headline": "Ratifican la efectividad del suero hiperinmune en pacientes graves de coronavirus",
+                "subheadline": "Nuevas pruebas corroboran la eficacia de las terapias basadas en anticuerpos policlonales equinos para reducir el impacto del covid en los casos severos. ",
+                "path": "/salud/noticias/2021/07/05/ratifican-la-efectividad-del-suero-hiperinmune-en-pacientes-graves-de-coronavirus/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/fl-tnbzXi7QcseRodK2F1hwoRMM=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/WBYWNYQBDJFDTID7FX7C54K37Y.jpg",
+                  "title": "Avances en la utilización del suero hiperinmune. (Foto: EFE)"
+                }
+              },
+              {
+                "id": "RZCMLB6MFVHATEC5NZD52743OM",
+                "headline": "Lanzan una campaña de detección gratuita de hidradenitis supurativa ",
+                "subheadline": "El problema es tan frecuente como la psoriasis o el melanoma. Se presentan más casos en las mujeres que en los hombres.",
+                "path": "/salud/bienestar/2021/07/05/lanzan-una-campana-de-deteccion-gratuita-de-hidradenitis-supurativa/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/n7L555ppIU94opc1B7mQiGjG3gc=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/T7AWXBNBVZFXNMKDEBEHEGC6IQ.jpeg",
+                  "title": "La hidradenitis supurativa es una enfermedad inmunológica y crónica de la piel. (Foto: Adobe Stock)"
+                }
+              },
+              {
+                "id": "E2GDCNKSOBCOZFNOJSXBKNGC6U",
+                "headline": "Descubren una “llave biológica” que puede acelerar la creación de nuevas vacunas contra el COVID-19",
+                "subheadline": "El hallazgo lograría reducir la necesidad de costosos ensayos de eficacia a gran escala.  El desafío es adaptar la técnica para cada tecnología con la que se preparan los antídotos. ",
+                "path": "/salud/noticias/2021/07/05/descubren-una-llave-biologica-que-puede-acelerar-la-creacion-de-nuevas-vacunas-contra-el-covid-19/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/MmHeKXZ6hYzA1S5hn6TeJ1gP6jk=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/RSB7LNSMCJFGFPHJMWAPKBLXB4.jpg",
+                  "title": "Los investigadores que desarrollan la vacuna contra el COVID-19 de Oxford-AstraZeneca identificaron biomarcadores que pueden ayudar a predecir si alguien estará protegido por la vacuna que recibe. Fuente: EFE."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "QJXP2VVVEJHNPKKPR6CQ6KGYUA",
+                "headline": "Qué es la flexibilidad cognitiva y cuál es su rol en el éxito personal y profesional",
+                "subheadline": "Si bien el coeficiente intelectual es clave en el aprendizaje y creatividad de las personas, rasgos como la empatía, la imaginación y la curiosidad permiten adaptar el comportamiento para lograr metas en un entorno nuevo o cambiante.",
+                "path": "/salud/bienestar/2021/07/05/que-es-la-flexibilidad-cognitiva-y-cual-es-su-rol-en-el-exito-personal-y-profesional/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/SIIeiWgexHLziF5OlNpjffGThEU=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/6VOOSU4MBRG33CNAVOQA6ASTD4.jpeg",
+                  "title": "La capacidad para resolver problemas no depende del coeficiente intelectual que se tenga. (Foto: Adobe Stock)"
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "",
+                "headline": "TN en vivo",
+                "subheadline": "",
+                "path": "/envivo/24hs/",
+                "media": {
+                  "type": "live"
+                }
+              },
+              {
+                "id": "J756ICUXOBBOPJPSBFC2JWST4Q",
+                "headline": "Según un estudio argentino publicado en The Lancet, muere casi el 60% de los pacientes con coronavirus que ingresan en terapia intensiva",
+                "subheadline": "El relevamiento denominado “Características clínicas y resultados de los pacientes con COVID-19 con ventilación invasiva” analizó el desempeño de 63 unidades de cuidados intensivos del país. Cuál es la principal comorbilidad.",
+                "path": "/salud/noticias/2021/07/05/segun-un-estudio-argentino-publicado-en-the-lancet-muere-casi-el-60-de-los-pacientes-que-ingresan-en-terapia-intensiva/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/kPAEuR7kMO_VXVltat2emuAfnfw=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/D4OLNNPWWNGUTIMCJ3BLP3Z5FA.jpg",
+                  "title": "Los intensivistas relevaron números alarmantes (Foto: EFE)."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "ZMT7KAQFOBHSTLEK4CGQNK3HLU",
+                "headline": "Las variantes Delta y Delta Plus avanzan en el mundo y la OMS asegura que “ningún país está a salvo”",
+                "subheadline": "Expertos de la máxima entidad de la salud mundial alertaron sobre una contagiosidad mucho mayor. Por qué coinciden en que estas mutaciones representan una amenaza mayor para América.",
+                "path": "/salud/bienestar/2021/07/03/las-variantes-delta-y-delta-plus-avanzan-en-el-mundo-y-la-oms-asegura-que-ningun-pais-esta-a-salvo/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/krJNTdB79v0OPasmNKz-hg7FD2c=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/4PKFDMZWVJG7HCQFZCC6IUOVQM.jpg",
+                  "title": "Según los expertos de la OMS, para contener la variante Delta es fundamental acelerar al máximo la vacunación. (Foto: EFE)"
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "ZPIXEZ4X2RAS5LMCRXA37PHMLY",
+                "headline": "Coronavirus: afirman que los no vacunados son posibles “fábricas de variantes”",
+                "subheadline": "Los científicos advierten que cuantas más personas sin inocularse haya en el mundo, más oportunidades tendrá el COVID-19 para multiplicarse. ",
+                "path": "/salud/noticias/2021/07/05/coronavirus-afirman-que-los-no-vacunados-son-posibles-fabricas-de-variantes/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/wKBVT6T__mv19ee3pWlqXvg8fd8=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/QEKSFZH4VRDQFELS3THAQVRY4I.jpeg",
+                  "title": "Cuanto más se propaga el virus, más muta. (Foto: Adobe Stock)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mainContent": [
+          {
+            "title": "",
+            "style": "general",
+            "withImage": true,
+            "items": [
+              {
+                "id": "BFFBPLIDSJH6HHTADEMHRPR2AU",
+                "headline": "Qué es la estenosis diverticular del colon, la enfermedad por la que operaron al Papa",
+                "subheadline": "Es la estrechez del intestino grueso. Las personas con este diagnóstico tienen que limitar el consumo de alimentos con alto contenido en fibra. Cómo se puede prevenir.",
+                "path": "/salud/noticias/2021/07/04/que-es-la-estenosis-diverticular-del-colon-la-enfermedad-por-la-que-operaron-al-papa/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/2lQTHI6TcoJovbDp3UG78q_akR8=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/QBJLATVKS7QU7XZHM5SJWNKYJM.jpg",
+                  "title": "El papa Francisco tiene estenosis diverticular sintomática del colon (Foto AP/Andrew Medichini)."
+                }
+              },
+              {
+                "id": "ESTLLKYOFJFERLTGI3KK5FBQFQ",
+                "headline": "Comer pasas de ciruela mejora la salud cardiovascular",
+                "subheadline": "Optimiza los biomarcadores de riesgo de enfermedad cerebrovascular y aumenta el colesterol “bueno” del cuerpo.",
+                "path": "/salud/nutricion/2021/07/04/comer-pasas-de-ciruela-mejora-la-salud-cardiovascular/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/b-N4rqwKVZv2LrH9WQxQzRgLCmY=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/ST3MDNEQYJBPHIJMNNBTPGNOJM.jpeg",
+                  "title": "Pasas de ciruela: se usan como remedio casero contra el estreñimiento. Foto: Tetiana - stock.adobe.com"
+                }
+              },
+              {
+                "id": "IS33RZSBEJDINHEI5O7CRFVM3I",
+                "headline": "Qué es el queratocono y cómo detectarlo antes de que robe parte de la visión",
+                "subheadline": "Columnista invitado (*) | Muchos de los casos de trasplante de córnea, por ejemplo, podrían evitarse con un diagnóstico precoz de la enfermedad.",
+                "path": "/salud/bienestar/2021/07/03/que-es-el-queratocono-y-como-detectarlo-antes-de-que-robe-parte-de-la-vision/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/5zeogua1k4RCeYJ5gRAmw2hvKX8=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/63YVXBVQQFDJNIYGPOJ4OKWCYA.jpeg",
+                  "title": "Visión: las herramientas de diagnóstico por imágenes corneales. Foto: bigguns - stock.adobe.com"
+                }
+              },
+              {
+                "id": "EOH6KMBVJNBPNFZPFSCABBZVCE",
+                "headline": "La regla de las cuatro A para terminar con la constipación",
+                "subheadline": "OPINIÓN. Columnista invitado (*) | En la mayoría de los casos, el miedo a defecar con dolor es lo que perpetúa la situación. Te contamos cómo ir disipando de a poco esos temores.",
+                "path": "/salud/noticias/2021/07/03/la-regla-de-las-cuatro-a-para-terminar-con-la-constipacion/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/hBetbzRQEapQovw8w6UFKPa4eWo=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/WQK4BQJW6JFJRAC5FDBWSPFHWM.jpeg",
+                  "title": "La constipación puede ir acompañada de dolor abdominal y ensuciamiento. (Foto: Adobe Stock)"
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "style": "general",
+            "items": [
+              {
+                "id": "CDPNLBRXZZETBI2GW5ZADILAQU",
+                "headline": "Por qué el arte ayuda a mantener la salud",
+                "subheadline": "OPINIÓN. Columnista invitada (*) | Muchas personas de todas las edades volvieron a vincularse con espacios de disfrute de cuando eran chicas. Así, se lograron enormes avances y hasta salidas laborales.",
+                "path": "/salud/noticias/2021/07/04/por-que-el-arte-ayuda-a-mantener-la-salud/",
+                "media": {
+                  "type": "image",
+                  "image": "https://tn.com.ar/resizer/yijkSijagdHNk-WbYCHhqgxrDqs=/1023x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/ZR62ABYRZJAEBAWVFIX7UKOFMY.jpg",
+                  "title": "Hay un crecimiento en la oferta de actividades vinculadas con las manifestaciones artísticas. (Foto: Pixabay)"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "footer": []
+  }
